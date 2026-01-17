@@ -25,4 +25,4 @@ npm install
 # or
 yarn install
 
-[Watch Demo Video]([https://youtu.be/YOUR_VIDEO_ID](https://github.com/Chaishtabassi/ReceipeFinder/blob/c8ba7e35fd3dbc4112ceb8e4f42403b87f6c5172/SVID_20260117_145716_1.mp4))
+![Image](https://github.com/user-attachments/assets/ccc883f5-b03a-4fe5-97ff-3094b2bad372)
