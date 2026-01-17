@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
@@ -95,3 +96,37 @@ To learn more about React Native, take a look at the following resources:
 - [Learn the Basics](https://reactnative.dev/docs/getting-started) - a **guided tour** of the React Native **basics**.
 - [Blog](https://reactnative.dev/blog) - read the latest official React Native **Blog** posts.
 - [`@facebook/react-native`](https://github.com/facebook/react-native) - the Open Source; GitHub **repository** for React Native.
+=======
+# ReceipeFinder
+
+**React Native** mobile app to discover, search, and save your favorite recipes. Built with **React Navigation**, **Context API**, and **TheMealDB API** for recipe data.
+
+## 📱 Features
+
+- **Search Recipes**: Search by ingredient or recipe name (e.g., "chicken", "pasta").  
+- **Favorites**: Save your favorite recipes and access them anytime.  
+- **Recipe Details**: View detailed recipe instructions, ingredients, and images.  
+- **Navigation**: Smooth navigation between screens using React Navigation.  
+- **Responsive UI**: Clean and modern design compatible with both Android and iOS.
+
+## 🛠️ Technologies Used
+
+- **React Native**  
+- **TypeScript**  
+- **React Navigation**  
+- **Context API** for state management  
+- **TheMealDB API** for recipe data  
+- **Expo** for development and testing  
+- **Styled Components / React Native Stylesheets** for UI
+
+Install dependencies
+npm install
+# or
+yarn install
+
+![Image](https://github.com/user-attachments/assets/ccc883f5-b03a-4fe5-97ff-3094b2bad372)
+
+![Image](https://github.com/user-attachments/assets/7c45c357-1ecc-4c27-969a-5986fda226a5)
+
+![Image](https://github.com/user-attachments/assets/03bceaf0-7f9f-4afc-9610-fa5ba5c9bb07)
+>>>>>>> 07df7b305ffa82d9d32ad53bde2b32376cfd3b68
